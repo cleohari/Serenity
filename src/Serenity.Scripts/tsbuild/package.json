@@ -5,7 +5,7 @@
   "bugs": "https://github.com/serenity-is/serenity/issues",
   "description": "Serenity ESBuild functions",
   "dependencies": {
-    "esbuild": "0.15.11"
+    "esbuild": "0.15.16"
   },
   "optionalDependencies": {
     "fsevents": "2.3.2"
