@@ -9,7 +9,7 @@
     "@types/jquery": "2.0.48",
     "@types/jqueryui": "1.12.6",
     "@types/jquery.validation": "1.16.7",
-    "@types/toastr": "2.1.39"
+    "@types/toastr": "2.1.40"
   },
   "devDependencies": {
     "@rollup/plugin-typescript": "8.5.0",
